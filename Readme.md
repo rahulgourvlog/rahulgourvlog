@@ -9,11 +9,13 @@
 <br />
 
 I am **Rahul Gour** . a Tech enthusiast. I love to build apps that are interesting and useful.
+
 <br />
 🌱 I’m currently learning **MERN Stack And DSA.**
 <br />
 
 ⚡ Little bit more about me:
+
 <br />
 ⚗️ Though I hold Bachelor’s degree in Mechanical engineering, I become a Full Stack (MERN) web developer.
 
