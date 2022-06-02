@@ -1,6 +1,8 @@
 
 Hi there 👋
+
 I am**Rahul Gour**. a Tech enthusiast. I love to build apps that are interesting and useful.
+
 ⚡ Little bit more about me:
 ⚗️ Though I hold Bachelor’s degree in Mechanical engineering, I become a Full Stack (MERN) web developer.
 🌱 I’m actively looking for opportunities.
