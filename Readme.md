@@ -1,8 +1,17 @@
-Hi there 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, My Name is Rahul Gour</h1>
+<h2 align="center">I'm a Full Stack Developer.</h2>
+
+
+<p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
+
+## 🙋‍♂️ About Me
 
 <br />
 
 I am **Rahul Gour** . a Tech enthusiast. I love to build apps that are interesting and useful.
+
+🌱 I’m currently learning **MERN Stack And DSA.**
+
 
 ⚡ Little bit more about me:
 <br />
