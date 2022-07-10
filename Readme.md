@@ -23,7 +23,7 @@ I am **Rahul Gour** . a Tech enthusiast. I love to build apps that are interesti
 A hard working and enthusiastic person who loves to code.
 
 🌍 I’m based in Bhopal,Madhya-Pradesh
-Visit my <a href="https://rahulgourportfolio.netlify.app/" target="_blank">Portfolio</a> for more details.
+Visit my <a href="https://gourrahul.netlify.app/" target="_blank">Portfolio</a> for more details.
 * ✉️  You can contact me at [rahulgour9754@gmail.com](mailto:rahulgour9754@gmail.com)
 
 <br />
