@@ -10,21 +10,22 @@
 
 <h4 align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h4>
 
-🌱 I’m currently learning **MERN Stack And DSA.**
-<br />
-⚡ Little bit more about me:
-<br />
-⚗️ Though I hold Bachelor’s degree in Mechanical engineering, I become a Full Stack (MERN) web developer.
-<br />
-🌱 I’m actively looking for opportunities.
+🌍  I'm based in  Bhopal, Madhya-Pradesh
+
+🌱 I’m currently learning Full Stack Web Development
+
+💬 Ask me about JavaScript, React
+
+📫 Contact me at rahulgour9754@gmail.com
+
+💼 Portfolio (https://gourrahul.netlify.app/)
 
 #### ⚡ One line that describes me best? 
 
 A hard working and enthusiastic person who loves to code.
 
-🌍 I’m based in Bhopal,Madhya-Pradesh
 Visit my <a href="https://gourrahul.netlify.app/" target="_blank">Portfolio</a> for more details.
-* ✉️  You can contact me at [rahulgour9754@gmail.com](mailto:rahulgour9754@gmail.com)
+
 
 <br />
 
